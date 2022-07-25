@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SAOWEB/static/css/main.f66a9b18.css",
-    "main.js": "/SAOWEB/static/js/main.b6e1e007.js",
-    "static/js/787.83b908c0.chunk.js": "/SAOWEB/static/js/787.83b908c0.chunk.js",
-    "index.html": "/SAOWEB/index.html",
-    "main.f66a9b18.css.map": "/SAOWEB/static/css/main.f66a9b18.css.map",
-    "main.b6e1e007.js.map": "/SAOWEB/static/js/main.b6e1e007.js.map",
-    "787.83b908c0.chunk.js.map": "/SAOWEB/static/js/787.83b908c0.chunk.js.map"
+    "main.css": "./static/css/main.f66a9b18.css",
+    "main.js": "./static/js/main.3d5f6736.js",
+    "static/js/787.83b908c0.chunk.js": "./static/js/787.83b908c0.chunk.js",
+    "index.html": "./index.html",
+    "main.f66a9b18.css.map": "./static/css/main.f66a9b18.css.map",
+    "main.3d5f6736.js.map": "./static/js/main.3d5f6736.js.map",
+    "787.83b908c0.chunk.js.map": "./static/js/787.83b908c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f66a9b18.css",
-    "static/js/main.b6e1e007.js"
+    "static/js/main.3d5f6736.js"
   ]
 }
