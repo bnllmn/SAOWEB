@@ -7,7 +7,7 @@ import LandingPage from './pages/LandingPage';
 function App() {
   return (
     <div
-      className="App h-screen"
+      className="App flex flex-col h-screen"
       style={{
         backgroundImage: 'url(/background-black.jpg)'
       }}

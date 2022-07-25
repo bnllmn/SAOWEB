@@ -1,5 +1,15 @@
+import { PageContentContainer } from '../components/PageContentContainer/PageContentContainer';
+
 function DownloadPage() {
-  return <div className="h-full w-4/5 bg-white mx-auto bg-bg2"></div>;
+  return (
+    <PageContentContainer>
+      <div>Download through steam</div>
+      <div>Windows/Mac/Linux Download</div>
+      <div>
+        Standalone launchers will need to be redownloaded with game updates
+      </div>
+    </PageContentContainer>
+  );
 }
 
 export default DownloadPage;
