@@ -16,7 +16,7 @@ function App() {
         <header className="website-header">
           <div className="text-white text-center">Logo</div>
           <nav className="page-navigation flex">
-            <Link className="ml-auto" to="SAOWEB/">
+            <Link className="ml-auto" to="/">
               <button
                 className="rounded-xl w-36 h-16 bg-gradient-to-b from-gray-500 via-gray-50 to-gray-500 text-white"
                 style={{
@@ -29,7 +29,7 @@ function App() {
                 </div>
               </button>
             </Link>
-            <Link className="mr-auto" to="SAOWEB/download">
+            <Link className="mr-auto" to="/download">
               <button
                 className="rounded-xl w-36 h-16 bg-gradient-to-b from-gray-500 via-gray-50 to-gray-500 text-white"
                 style={{
