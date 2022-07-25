@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bnllmn.github.io/SAOWEB/static/css/main.f66a9b18.css",
-    "main.js": "/bnllmn.github.io/SAOWEB/static/js/main.949ba482.js",
-    "static/js/787.83b908c0.chunk.js": "/bnllmn.github.io/SAOWEB/static/js/787.83b908c0.chunk.js",
-    "index.html": "/bnllmn.github.io/SAOWEB/index.html",
-    "main.f66a9b18.css.map": "/bnllmn.github.io/SAOWEB/static/css/main.f66a9b18.css.map",
-    "main.949ba482.js.map": "/bnllmn.github.io/SAOWEB/static/js/main.949ba482.js.map",
-    "787.83b908c0.chunk.js.map": "/bnllmn.github.io/SAOWEB/static/js/787.83b908c0.chunk.js.map"
+    "main.css": "/SAOWEB/static/css/main.f66a9b18.css",
+    "main.js": "/SAOWEB/static/js/main.d7992586.js",
+    "static/js/787.83b908c0.chunk.js": "/SAOWEB/static/js/787.83b908c0.chunk.js",
+    "index.html": "/SAOWEB/index.html",
+    "main.f66a9b18.css.map": "/SAOWEB/static/css/main.f66a9b18.css.map",
+    "main.d7992586.js.map": "/SAOWEB/static/js/main.d7992586.js.map",
+    "787.83b908c0.chunk.js.map": "/SAOWEB/static/js/787.83b908c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f66a9b18.css",
-    "static/js/main.949ba482.js"
+    "static/js/main.d7992586.js"
   ]
 }
