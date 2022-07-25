@@ -9,7 +9,7 @@ function App() {
     <div
       className="App flex flex-col h-screen"
       style={{
-        backgroundImage: 'url(SAOWEB/background-black.jpg)'
+        backgroundImage: 'url(/SAOWEB/background-black.jpg)'
       }}
     >
       <Router>
@@ -20,7 +20,7 @@ function App() {
               <button
                 className="rounded-xl w-36 h-16 bg-gradient-to-b from-gray-500 via-gray-50 to-gray-500 text-white"
                 style={{
-                  backgroundImage: 'url(SAOWEB/button-black-lighter.png)',
+                  backgroundImage: 'url(/button-black-lighter.png)',
                   backgroundSize: '150px 75px'
                 }}
               >
@@ -33,7 +33,7 @@ function App() {
               <button
                 className="rounded-xl w-36 h-16 bg-gradient-to-b from-gray-500 via-gray-50 to-gray-500 text-white"
                 style={{
-                  backgroundImage: 'url(SAOWEB/button-black-lighter.png)',
+                  backgroundImage: 'url(/button-black-lighter.png)',
                   backgroundSize: '150px 75px'
                 }}
               >
