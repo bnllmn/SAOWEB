@@ -9,18 +9,18 @@ function App() {
     <div
       className="App flex flex-col h-screen"
       style={{
-        backgroundImage: 'url(/background-black.jpg)'
+        backgroundImage: 'url(SAOWEB/background-black.jpg)'
       }}
     >
       <Router>
         <header className="website-header">
           <div className="text-white text-center">Logo</div>
           <nav className="page-navigation flex">
-            <Link className="ml-auto" to="/">
+            <Link className="ml-auto" to="SAOWEB/">
               <button
                 className="rounded-xl w-36 h-16 bg-gradient-to-b from-gray-500 via-gray-50 to-gray-500 text-white"
                 style={{
-                  backgroundImage: 'url(/button-black-lighter.png)',
+                  backgroundImage: 'url(SAOWEB/button-black-lighter.png)',
                   backgroundSize: '150px 75px'
                 }}
               >
@@ -29,11 +29,11 @@ function App() {
                 </div>
               </button>
             </Link>
-            <Link className="mr-auto" to="/download">
+            <Link className="mr-auto" to="SAOWEB/download">
               <button
                 className="rounded-xl w-36 h-16 bg-gradient-to-b from-gray-500 via-gray-50 to-gray-500 text-white"
                 style={{
-                  backgroundImage: 'url(/button-black-lighter.png)',
+                  backgroundImage: 'url(SAOWEB/button-black-lighter.png)',
                   backgroundSize: '150px 75px'
                 }}
               >
@@ -46,8 +46,8 @@ function App() {
         </header>
         <div className="content-container h-full">
           <Routes>
-            <Route path="/" element={<LandingPage />} />
-            <Route path="/download" element={<DownloadPage />} />
+            <Route path="SAOWEB/" element={<LandingPage />} />
+            <Route path="SAOWEB/download" element={<DownloadPage />} />
           </Routes>
         </div>
       </Router>
