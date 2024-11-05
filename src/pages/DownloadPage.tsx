@@ -3,10 +3,9 @@ import { PageContentContainer } from '../components/PageContentContainer/PageCon
 function DownloadPage() {
   return (
     <PageContentContainer>
-      <div>Download through steam</div>
       <div>Windows/Mac/Linux Download</div>
       <div>
-        Standalone launchers will need to be redownloaded with game updates
+        Page In Development ... beta download link will be released here
       </div>
     </PageContentContainer>
   );

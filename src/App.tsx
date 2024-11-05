@@ -12,7 +12,7 @@ function App() {
     <div
       className="App flex flex-col h-dvh min-h-screen"
       style={{
-        backgroundImage: 'url(/background-black.jpg)'
+        backgroundImage: 'url(/snall.jpg)'
       }}
     >
       <Router>
