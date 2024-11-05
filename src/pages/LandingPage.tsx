@@ -1,7 +1,6 @@
 import { PageContentContainer } from '../components/PageContentContainer/PageContentContainer';
 import UpdatePostLanding from '../components/UpdatePosts/routes/UpdatePostLanding';
 import { posts } from '../components/UpdatePosts/posts/updateposts';
-import ServerStatus from '../components/ServerStatus';
 
 function LandingPage() {
   console.log(posts);
@@ -18,7 +17,7 @@ function LandingPage() {
         }}
       ></div>
       <div className="welcome-message text-white text-center flex-col">
-        <div>Welcome!</div> <ServerStatus />
+        Welcome!
       </div>
       <UpdatePostLanding postData={posts.updatePosts[0]} />
       <UpdatePostLanding postData={posts.updatePosts[1]} />
