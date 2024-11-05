@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const SERVER_URL = 'http://use-bit.gl.at.ply.gg:49493'; // Replace with your actual tunnel URL
+const SERVER_URL = 'https://use-bit.gl.at.ply.gg:49493'; // Replace with your actual tunnel URL
 
 const ServerStatus: React.FC = () => {
   const [status, setStatus] = useState<'checking' | 'online' | 'offline'>(
